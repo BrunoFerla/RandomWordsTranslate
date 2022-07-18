@@ -1,0 +1,17 @@
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\bin\Debug\net6.0\words.csv
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\bin\Debug\net6.0\RandomTestTranslate.exe
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\bin\Debug\net6.0\RandomTestTranslate.deps.json
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\bin\Debug\net6.0\RandomTestTranslate.runtimeconfig.json
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\bin\Debug\net6.0\RandomTestTranslate.dll
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\bin\Debug\net6.0\ref\RandomTestTranslate.dll
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\bin\Debug\net6.0\RandomTestTranslate.pdb
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\obj\Debug\net6.0\RandomTestTranslate.csproj.AssemblyReference.cache
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\obj\Debug\net6.0\RandomTestTranslate.GeneratedMSBuildEditorConfig.editorconfig
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\obj\Debug\net6.0\RandomTestTranslate.AssemblyInfoInputs.cache
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\obj\Debug\net6.0\RandomTestTranslate.AssemblyInfo.cs
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\obj\Debug\net6.0\RandomTestTranslate.csproj.CoreCompileInputs.cache
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\obj\Debug\net6.0\RandomTestTranslate.dll
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\obj\Debug\net6.0\ref\RandomTestTranslate.dll
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\obj\Debug\net6.0\RandomTestTranslate.pdb
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\obj\Debug\net6.0\RandomTestTranslate.genruntimeconfig.cache
+C:\prj\ferramentas\RandomTestTranslate\RandomTestTranslate\bin\Debug\net6.0\allWords.csv
